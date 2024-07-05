@@ -1,1 +1,22 @@
-/* You can add global styles to this file, and also import other style files */
+/* styles.css */
+@import "~bootstrap/dist/css/bootstrap.min.css";
+
+body {
+    background-image: url('/assets/alberto-ramos-WhhXEp9Za5Q-unsplash.jpg');
+    background-size: cover;
+    background-position: center; 
+    background-repeat: no-repeat; 
+    background-attachment: fixed; 
+    height: 100vh;
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    padding: 20px;
+}
+
+.navbar {
+    background-color: rgb(218 217 225 / 62%);
+   
+}

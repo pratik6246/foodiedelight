@@ -1,0 +1,28 @@
+<div class="row">
+  <div class="col-md-6">
+    <h2>Add Restaurant</h2>
+    <form (ngSubmit)="addRestaurant()">
+      <div class="form-group">
+        <label for="name">Name:</label>
+        <input id="name" [(ngModel)]="restaurant.name" name="name" class="form-control" required>
+      </div>
+      <div class="form-group">
+        <label for="description">Food Type:</label>
+        <input id="description" [(ngModel)]="restaurant.description" name="description" class="form-control" required>
+      </div>
+      <div class="form-group">
+        <label for="location">Adress:</label>
+        <input id="location" [(ngModel)]="restaurant.location" name="location" class="form-control" required>
+      </div>
+      <div class="form-group">
+        <label for="contactNo">Contact No:</label>
+        <input id="contactNo" [(ngModel)]="restaurant.contactNo" name="contactNo" class="form-control" required>
+      </div>
+      <div class="form-group">
+        <label for="openingHours">Opening Hours:</label>
+        <input id="openingHours" [(ngModel)]="restaurant.openingHours" name="openingHours" class="form-control" required>
+      </div>
+      <button type="submit" class="btn btn-primary">Add Restaurant</button>
+    </form>
+  </div>
+</div>

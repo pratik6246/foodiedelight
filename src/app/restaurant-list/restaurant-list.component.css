@@ -1,0 +1,39 @@
+.card {
+  background-color: rgba(255, 255, 255, 0.9);
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+}
+
+.card:hover {
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+.card-title {
+  font-size: 1.25rem;
+  font-weight: bold;
+}
+
+.card-text {
+  font-size: 1rem;
+  color: #555;
+}
+
+.card-img-top {
+  height: 150px; /* Set the desired height here */
+  object-fit: cover; /* This ensures the image covers the area */
+}
+
+.btn {
+  margin-right: 10px;
+}
+
+.pagination {
+  display: flex;
+  justify-content: flex-end;
+  margin-top: 20px;
+}
+
+.page-item.disabled .page-link {
+  pointer-events: none;
+  opacity: 0.6;
+}

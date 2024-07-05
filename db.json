@@ -1,0 +1,380 @@
+{
+  "restaurants": [
+    {
+      "id": "1",
+      "name": "The Great Restaurant",
+      "description": "Veg - Non veg",
+      "location": "123 Main St,CA",
+      "contactNo": "9000340909",
+      "openingHours": "11AM- 9PM"
+    },
+    {
+      "id": "2",
+      "name": "Food Haven",
+      "description": "Veg - Non veg",
+      "location": "456 Elm St",
+      "contactNo": "9000340808",
+      "openingHours": "11AM- 9PM"
+    },
+    {
+      "id": "90",
+      "name": "McDonald's",
+      "description": "Veg",
+      "location": "Nagpur",
+      "contactNo": "9000340002",
+      "openingHours": "11AM- 9PM"
+    },
+    {
+      "id": "3",
+      "name": "Burger King 2",
+      "description": "Veg",
+      "location": "Rajkot",
+      "contactNo": "1234567890",
+      "openingHours": "4 - 5 PM"
+    },
+    {
+      "id": "4",
+      "name": "Domino's Pizza",
+      "description": "Veg- Non Veg",
+      "location": "N-2 solapur",
+      "contactNo": "1166554488",
+      "openingHours": "5"
+    },
+    {
+      "id": "45",
+      "name": "Yadav restaurant",
+      "description": "Veg",
+      "location": "Hajipur Bihar",
+      "contactNo": "987879878",
+      "openingHours": "10Am-10Pm"
+    },
+    {
+      "id": "46",
+      "name": "New Baba restaurant",
+      "description": "Non veg - Veg",
+      "location": "Near New Hajipur Bihar",
+      "contactNo": "123456789",
+      "openingHours": "4am-12pm"
+    },
+    {
+      "id": "47",
+      "name": "Mitai Ghar",
+      "description": "Veg",
+      "location": "Hajipur Bihar",
+      "contactNo": "9009090909",
+      "openingHours": "10AM-09PM"
+    },
+    {
+      "id": "48",
+      "name": "Burger King",
+      "description": "Non-Veg",
+      "location": "Burger Villa, Hydrabad",
+      "contactNo": "9898999898",
+      "openingHours": "11am-5pm"
+    },
+    {
+      "id": "49",
+      "name": "vsk-edit",
+      "description": "v-description",
+      "location": "v-location",
+      "contactNo": "6655665566",
+      "openingHours": "11Am-11Pm"
+    },
+    {
+      "id": "50",
+      "name": "Vaishu",
+      "description": "Veg non veg",
+      "location": "Nityaseva",
+      "contactNo": "5566443322",
+      "openingHours": "10Am-11Pm"
+    },
+    {
+      "id": "51",
+      "name": "test-edit",
+      "description": "test-edit",
+      "location": "test-edit",
+      "contactNo": "test-edit",
+      "openingHours": "test-edit"
+    },
+    {
+      "id": "52",
+      "name": "vsk-edit",
+      "description": "veg",
+      "location": "pipe",
+      "contactNo": "4455335544",
+      "openingHours": "11Am-12Pm"
+    },
+    {
+      "id": "53",
+      "name": "dd",
+      "description": "veg",
+      "location": "ff",
+      "contactNo": "4433553344",
+      "openingHours": "3"
+    },
+    {
+      "id": "54",
+      "name": "chicken sawarma",
+      "description": "non veg",
+      "location": "kantapalli",
+      "contactNo": "9898988998",
+      "openingHours": "11am-5pm"
+    },
+    {
+      "id": "56",
+      "name": "pizzaVilla",
+      "description": "non veg",
+      "location": "Kasouli",
+      "contactNo": "8787878787",
+      "openingHours": "11am-5pm"
+    },
+    {
+      "id": "57",
+      "name": "sattva",
+      "description": "non-veg",
+      "location": "hyderrabad",
+      "contactNo": "8898898732",
+      "openingHours": "10AM-11PM"
+    },
+    {
+      "id": "58",
+      "name": "string",
+      "description": "string",
+      "location": "string",
+      "contactNo": "string",
+      "openingHours": "string"
+    },
+    {
+      "id": "59",
+      "name": "KFC",
+      "description": "Non Veg",
+      "location": "jaipur",
+      "contactNo": "7878787877",
+      "openingHours": "10"
+    },
+    {
+      "id": "60",
+      "name": "DEEPNAP",
+      "description": "string",
+      "location": "FCA",
+      "contactNo": "8368693097",
+      "openingHours": "12PM"
+    },
+    {
+      "id": "62",
+      "name": "pika",
+      "description": "veg",
+      "location": "dsadsadsa",
+      "contactNo": "7894561230",
+      "openingHours": "67"
+    },
+    {
+      "id": "63",
+      "name": "Deveshbisht36@gmail.com",
+      "description": "sdfsdfsdf",
+      "location": "FCA 88, Street no. 3, Garg Colony, Ballabhagarh, Faridabad, Haryana -121004",
+      "contactNo": "AQSsaASaAS",
+      "openingHours": "asAS"
+    },
+    {
+      "id": "66",
+      "name": "pkhouse",
+      "description": "non",
+      "location": " hasdha id baub duaudsi ad",
+      "contactNo": "7894562308",
+      "openingHours": "qwqw"
+    },
+    {
+      "id": "70",
+      "name": "pokeminhouse",
+      "description": "biy",
+      "location": "Fca-88 garg colony",
+      "contactNo": "8523697410",
+      "openingHours": "sd"
+    },
+    {
+      "id": "71",
+      "name": "aasda adsa",
+      "description": "asdadas",
+      "location": "dasdads",
+      "contactNo": "asdasdasad",
+      "openingHours": "sadasd"
+    },
+    {
+      "id": "74",
+      "name": "asada xcadsaa",
+      "description": "sdascxcasdcasda",
+      "location": "sadasdasda",
+      "contactNo": "sdadsasdad",
+      "openingHours": "asdasdsads"
+    },
+    {
+      "id": "81",
+      "name": "stridng",
+      "description": "streing",
+      "location": "strieng",
+      "contactNo": "strieng",
+      "openingHours": "stering"
+    },
+    {
+      "id": "88",
+      "name": "striwqeqweng",
+      "description": "string",
+      "location": "string",
+      "contactNo": "string",
+      "openingHours": "string"
+    },
+    {
+      "id": "89",
+      "name": "striwqeqwew wng",
+      "description": "string",
+      "location": "striasda ng",
+      "contactNo": "string",
+      "openingHours": "string"
+    },
+    {
+      "id": "93",
+      "name": "Deveshbisht36@gmail.cos",
+      "description": "veg",
+      "location": "FCA 88, Street no. 3, Garg Colony, Ballabhagarh, Faridabad, Haryana -121004",
+      "contactNo": "2587413694",
+      "openingHours": "12"
+    },
+    {
+      "id": "96",
+      "name": "stringsssdasd",
+      "description": "veg",
+      "location": "FCA 88, Street no. 3, Garg Colony, Ballabhagarh, Faridabad, Haryana -121004",
+      "contactNo": "7894562589",
+      "openingHours": "12"
+    },
+    {
+      "id": "97",
+      "name": "adadsadsada as",
+      "description": "dasdasdasd",
+      "location": "sadasdasda",
+      "contactNo": "7894562586",
+      "openingHours": "12"
+    },
+    {
+      "id": "98",
+      "name": "KARAN",
+      "description": "asdasda",
+      "location": "sdasdadsasdas",
+      "contactNo": "7894561230",
+      "openingHours": "asdasda"
+    },
+    {
+      "id": "99",
+      "name": "asdasdasd",
+      "description": "adsasda",
+      "location": "sdasdad",
+      "contactNo": "7894562369",
+      "openingHours": "assda"
+    },
+    {
+      "id": "100",
+      "name": "KARANZX",
+      "description": "zXZXZX",
+      "location": "ZXXZXZ",
+      "contactNo": "7894561235",
+      "openingHours": "zX"
+    },
+    {
+      "id": "101",
+      "name": "xdgshacjhs aajas dad adca",
+      "description": "sdcasdasdasd",
+      "location": "asddasads",
+      "contactNo": "7894563214",
+      "openingHours": "asda"
+    },
+    {
+      "id": "102",
+      "name": "sadasd",
+      "description": "asdasd",
+      "location": "asdasda",
+      "contactNo": "7894561236",
+      "openingHours": "sad"
+    },
+    {
+      "id": "104",
+      "name": "Balaji sandwich",
+      "description": "Veg",
+      "location": "Rajkot",
+      "contactNo": "3216549870",
+      "openingHours": "8 - 12 PM"
+    },
+    {
+      "id": "105",
+      "name": "sd",
+      "description": "asd",
+      "location": "sd",
+      "contactNo": "sad",
+      "openingHours": "asd"
+    },
+    {
+      "id": "106",
+      "name": "Yoyo",
+      "description": "sd",
+      "location": "Lorem Ipsum",
+      "contactNo": "321654987",
+      "openingHours": "4 To 12 PM"
+    },
+    {
+      "id": "107",
+      "name": "Yoyo 21",
+      "description": "veg",
+      "location": "Lorem ipsum",
+      "contactNo": "3216549870",
+      "openingHours": "4 To 12 PM"
+    },
+    {
+      "id": "108",
+      "name": "asd",
+      "description": "ss",
+      "location": "Lorem ipsum",
+      "contactNo": "123456789",
+      "openingHours": "4 to 12 PM"
+    },
+    {
+      "id": "109",
+      "name": "ddddddd",
+      "description": "dsf",
+      "location": "sdf",
+      "contactNo": "3216549870",
+      "openingHours": "sdf"
+    },
+    {
+      "id": "110",
+      "name": "Burger King 2",
+      "description": "Veg",
+      "location": "Rajkot",
+      "contactNo": "1234567890",
+      "openingHours": "4 - 5 PM"
+    },
+    {
+      "id": "111",
+      "name": "New Rani vadapav",
+      "description": "Veg - Non veg",
+      "location": "New Lorem ipsum",
+      "contactNo": "1234567890",
+      "openingHours": "4 PM - 12 PM"
+    },
+    {
+      "id": "112",
+      "name": "aaaas1",
+      "description": "kjlhfkjak",
+      "location": "string",
+      "contactNo": "string",
+      "openingHours": "string"
+    },
+    {
+      "id": "113",
+      "name": "Food cart",
+      "description": "veg",
+      "location": "Bangalore ",
+      "contactNo": "9090909090",
+      "openingHours": "11am-12pm"
+    }
+  ]
+}
